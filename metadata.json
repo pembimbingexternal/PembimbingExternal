@@ -1,0 +1,6 @@
+{
+  "name": "Edu Assist - Solusi Akademik Terbaik",
+  "description": "Pendampingan menyeluruh untuk skripsi, tesis, dan tugas kuliah dengan hasil berkualitas dan bebas plagiarisme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
